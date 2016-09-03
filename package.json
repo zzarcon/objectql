@@ -1,0 +1,27 @@
+{
+  "name": "objectql",
+  "version": "0.1.0",
+  "description": "Query any object properties with sql",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zzarcon/objectql.git"
+  },
+  "author": "zzarcon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zzarcon/objectql/issues"
+  },
+  "homepage": "https://github.com/zzarcon/objectql#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "karma": "^1.2.0",
+    "karma-chai": "^0.1.0",
+    "karma-chrome-launcher": "^2.0.0",
+    "karma-mocha": "^1.1.1",
+    "mocha": "^3.0.2"
+  }
+}
